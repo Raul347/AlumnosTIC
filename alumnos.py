@@ -52,7 +52,7 @@ et.SubElement(se, "Matricula").text = "18040078"
 
 se = et.SubElement(root, "Entornos_Digitales")
 et.SubElement(se, "Nombre").text = "Alonso_Reyes"
-et.SubElement(se, "Matricula").text = "18040151"
+et.SubElement(se, "Matricula").text = "18040150"
 
 se = et.SubElement(root, "Entornos_Digitales")
 et.SubElement(se, "Nombre").text = "Rosa_Rodriguez"
